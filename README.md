@@ -10,14 +10,15 @@ A player for a child that uses RFID tags to play back media.
 3. ESP32
 
 ### Audio Processing
-1. DFPlayer Mini
-2. MAX98357
-3. UDA1334
+1. **DFPlayer Mini** (
+2. **MAX98357** - I2S digtal input audio amplifier
+3. **UDA1334**
+4. **PCM510x** - requires amplification
 
 ### NFC/RFID Read
-1. RC522
-2. PN532
+1. **RC522**
+2. **PN532**
 
 ### Battery
 #### Charging IC
-1. MCP73833
+1. **MCP73833** - 
