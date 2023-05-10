@@ -15,6 +15,8 @@ A player for a child that uses RFID tags to play back media.
 3. UDA1334
 
 ### NFC/RFID Read
+1. RC522
+2. PN532
 
 ### Battery
 #### Charging IC
