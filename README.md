@@ -16,9 +16,13 @@ A player for a child that uses RFID tags to play back media.
 4. **PCM510x** - requires amplification
 
 ### NFC/RFID Read
-1. **RC522**
+1. **MFRC522**
 2. **PN532**
 
 ### Battery
-#### Charging IC
+#### Charging
 1. **MCP73833** - 
+
+#### Monitoring
+1. **DS2438**
+2. **BQ7790508**
