@@ -25,4 +25,4 @@ A player for a child that uses RFID tags to play back media.
 
 #### Monitoring
 1. **DS2438**
-2. **BQ7790508**
+2. **BQ77905**
