@@ -14,6 +14,7 @@ A player for a child that uses RFID tags to play back media.
 2. **MAX98357** - I2S digtal input audio amplifier
 3. **UDA1334**
 4. **PCM510x** - requires amplification
+   a. [Explanation used with ESP8266](http://www.nihamkin.com/pcm-audio-on-esp8266-using-the-pcm5102-chip.html)
 
 ### NFC/RFID Read
 1. **MFRC522**
