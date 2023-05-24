@@ -26,6 +26,7 @@ A player for a child that uses RFID tags to play back media.
 #### Monitoring
 1. **DS2438**
 2. **BQ77905**
+3. **XB8089D**
 
 ## Firmware
 - [Audio Playback with ESP82 or Pi Pico](https://github.com/earlephilhower/ESP8266Audio)
