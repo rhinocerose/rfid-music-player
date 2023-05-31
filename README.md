@@ -3,10 +3,10 @@
 A player for a child that uses RFID tags to play back media.
 
 ## Inspirations
-## Hardware Options
 - [Easy-To-Use Music Player Relies On RFID](https://hackaday.com/2020/08/29/easy-to-use-music-player-relies-on-rfid/) ([Instructables link](https://www.instructables.com/Juuke-a-RFID-Music-Player-for-Elderly-and-Kids/))
 - [RFID Jukebox for Kids](https://hackaday.com/2012/03/14/rfid-jukebox-for-the-kids/) ([Tumblr link](https://scalotta.tumblr.com/post/18998879764/contact-free-jukebox))
 
+## Hardware Options
 ### MCU
 1. Raspberry Pi
 2. Arduino
